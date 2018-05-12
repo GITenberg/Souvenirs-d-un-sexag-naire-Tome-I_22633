@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25461
     wikipedia: http://en.wikipedia.org/wiki/Antoine-Vincent_Arnault
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22633#Souvenirs-d-un-sexag-naire-Tome-I
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2007-09-16'
 gutenberg_type: Text
